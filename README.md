@@ -73,14 +73,8 @@
 
 ## 演示图
 ![1](https://user-images.githubusercontent.com/73157953/197713472-1912c125-f39c-4f26-93b8-23584edb4d32.png)  
-![2](https://user-images.githubusercontent.com/73157953/197713481-ae7ae755-1e6b-4c54-8de0-530fc9ab96fc.png)  
-![3](https://user-images.githubusercontent.com/73157953/197713488-67871772-f33d-4277-a584-d302763b8f45.png)  
-![4](https://user-images.githubusercontent.com/73157953/197713498-a62105c5-e808-4375-9083-8bb8a4ad3535.png)  
-![5](https://user-images.githubusercontent.com/73157953/197713501-5e96a4a6-5fa7-4843-8d04-6c8d788ebd06.png)  
-![6](https://user-images.githubusercontent.com/73157953/197713505-3da44b6d-0d8a-439a-bf9d-86a2a8f1f0ab.png)  
-![4](https://user-images.githubusercontent.com/73157953/197713498-a62105c5-e808-4375-9083-8bb8a4ad3535.png)  
-![5](https://user-images.githubusercontent.com/73157953/197713501-5e96a4a6-5fa7-4843-8d04-6c8d788ebd06.png)  
-![6](https://user-images.githubusercontent.com/73157953/197713505-3da44b6d-0d8a-439a-bf9d-86a2a8f1f0ab.png)  
+![2](https://user-images.githubusercontent.com/73157953/197926344-47f21c2d-dbca-4d2f-a034-1185dd9386fb.jpg)
+
 
 
 ## 交流群
