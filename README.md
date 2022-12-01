@@ -65,4 +65,6 @@
 
 
 ## 交流群
-交流群：820997820
+[//]: # ([![加入QQ群]&#40;https://img.shields.io/badge/已满-820997820-blue.svg&#41;]&#40;https://qm.qq.com/cgi-bin/qm/qr?k=uJhvux3LzxImRShPvr2NvQvJCVBNB2qy&jump_from=webapi&authKey=mb5NNaSN15d5UT+fRGu708OdpeWOmjS8YonE4sTnlevrv3S+acgQgWtORYCB/Fr+&#41;)
+交流群[1群]：820997820 [![加入QQ群](https://pub.idqqimg.com/wpa/images/group.png)](https://qm.qq.com/cgi-bin/qm/qr?k=uJhvux3LzxImRShPvr2NvQvJCVBNB2qy&jump_from=webapi&authKey=mb5NNaSN15d5UT+fRGu708OdpeWOmjS8YonE4sTnlevrv3S+acgQgWtORYCB/Fr+)  
+
