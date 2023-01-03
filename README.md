@@ -1,6 +1,6 @@
-# 12306抢票客户端(支持windows、mac OS X)
+# 12306抢票客户端(支持Windows、Mac OS X)
 
-## 软件下载地址：
+## 最新软件下载地址(或者在Releases中下载)：
 个人服务器下载可能会有点慢，耐心等待   
 1. windows下载地址：https://ticket.ldkll.cn/ticket/app/version/V3/downLoadAppZip?data=FoEg16ZIqgoTnY4PPM%2F57w%3D%3D
 2. mac下载地址：https://ticket.ldkll.cn/ticket/app/version/V3/downLoadAppZip?data=Zi2FVr%2FgN5vSoQrnjOMcAQ%3D%3D
