@@ -3,7 +3,14 @@
 ## 最新软件下载地址(或者在Releases中下载)：
 个人服务器下载可能会有点慢，耐心等待   
 1. windows下载地址：https://ticket.ldkll.cn/ticket/app/version/V3/downLoadAppZip?data=FoEg16ZIqgoTnY4PPM%2F57w%3D%3D
-2. mac下载地址：https://ticket.ldkll.cn/ticket/app/version/V3/downLoadAppZip?data=Zi2FVr%2FgN5vSoQrnjOMcAQ%3D%3D
+2. mac下载地址：https://ticket.ldkll.cn/ticket/app/version/V3/downLoadAppZip?data=Zi2FVr%2FgN5vSoQrnjOMcAQ%3D%3D 
+ 
+
+## 请作者喝杯咖啡
+软件维护不易，您的一点点心意，是我进行下去的动力  
+![5c1a798751240908ec4f275c394a19a](https://user-images.githubusercontent.com/73157953/197716354-9bba4d5f-ca76-44ef-a449-64f4089c1201.jpg)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+![b30bb403559a563d87b581b55dcb79c](https://user-images.githubusercontent.com/73157953/197716377-3752a08f-470a-4973-840b-a5969dac819a.jpg)
+ 
 ### 遇到的问题
 1. MAC安装应用程序时如果提示：
 ```
@@ -49,11 +56,6 @@
 - [x] 邮件通知、微信通知、短息通知、其他渠道通知（个人渠道，目前仅支持邮箱通知）
 - [x] 在线取消订单、在线退票
 - [x] 保存设置的抢票信息
-
-## 请作者喝杯咖啡
-软件维护不易，您的一点点心意，是我进行下去的动力  
-![5c1a798751240908ec4f275c394a19a](https://user-images.githubusercontent.com/73157953/197716354-9bba4d5f-ca76-44ef-a449-64f4089c1201.jpg)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-![b30bb403559a563d87b581b55dcb79c](https://user-images.githubusercontent.com/73157953/197716377-3752a08f-470a-4973-840b-a5969dac819a.jpg)
 
 
 
