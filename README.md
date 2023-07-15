@@ -8,8 +8,8 @@
 
 ## 请作者喝杯咖啡
 软件维护不易，您的一点点心意，是我进行下去的动力  
-![5c1a798751240908ec4f275c394a19a](https://user-images.githubusercontent.com/73157953/197716354-9bba4d5f-ca76-44ef-a449-64f4089c1201.jpg)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-![b30bb403559a563d87b581b55dcb79c](https://user-images.githubusercontent.com/73157953/197716377-3752a08f-470a-4973-840b-a5969dac819a.jpg)
+<img src="https://github.com/ldk-2512/ticket-client/assets/73157953/8ee86679-b96f-491f-a7ae-0f9b8155da78" width="210px">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+<img src="https://github.com/ldk-2512/ticket-client/assets/73157953/a3dae756-0ddb-4d5d-86c3-e9364af33405" width="210px">
  
 ### 遇到的问题
 1. MAC安装应用程序时如果提示：
