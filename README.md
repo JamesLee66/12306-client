@@ -8,7 +8,7 @@
 
 ## 请作者喝杯咖啡
 软件维护不易，您的一点点心意，是我进行下去的动力  
-<img src="https://github.com/ldk-2512/ticket-client/assets/73157953/8ee86679-b96f-491f-a7ae-0f9b8155da78" width="300px">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+<img src="https://github.com/ldk-2512/ticket-client/assets/73157953/8ee86679-b96f-491f-a7ae-0f9b8155da78" width="300px">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 <img src="https://github.com/ldk-2512/ticket-client/assets/73157953/a3dae756-0ddb-4d5d-86c3-e9364af33405" width="300px">
  
 ### 遇到的问题
