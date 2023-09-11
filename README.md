@@ -1,20 +1,5 @@
 # 12306抢票客户端(支持Windows、Mac OS X)
 
-## 最新软件下载地址(或者在Releases中下载)：
-个人服务器下载可能会有点慢，耐心等待   
-1. windows下载地址：https://ticket.ldkll.cn/ticket/app/version/V3/downLoadAppZip?data=FoEg16ZIqgoTnY4PPM%2F57w%3D%3D
-2. mac（不包含M系）下载地址：https://ticket.ldkll.cn/ticket/app/version/V3/downLoadAppZip?data=Zi2FVr%2FgN5vSoQrnjOMcAQ%3D%3D 
- 
- 
-### 遇到的问题
-1. MAC安装应用程序时如果提示：
-```
-您的安全性偏好设置仅允许安装来自 App Store 和被认可的开发者的应用
-解决方案：
-打开：系统偏好设置 --> 安全性与隐私 --> 通用 点击允许第三方应用运行
-```
-
-
 ## 介绍
 12306抢票桌面客户端，支持自动打码，自动滑块，自动下单！
 
