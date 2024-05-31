@@ -3,8 +3,8 @@
 
 ## 请作者喝杯咖啡
 软件维护不易，您的一点点心意，是我进行下去的动力  
-<img src="https://github.com/JamesLee66/ticket-client/assets/73157953/8ee86679-b96f-491f-a7ae-0f9b8155da78" width="260px">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-<img src="https://github.com/JamesLee66/ticket-client/assets/73157953/a3dae756-0ddb-4d5d-86c3-e9364af33405" width="260px">
+<img src="https://github.com/JamesLee66/ticket-client/assets/73157953/1cb6b13b-c642-4bf3-aefe-7c40018785a1" width="260px">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+<img src="https://github.com/JamesLee66/ticket-client/assets/73157953/43937e72-0aff-475b-b208-076733d107bc" width="260px">
 
 ## 介绍
 12306抢票桌面客户端，支持自动打码，自动滑块，自动下单！
